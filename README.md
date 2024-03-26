@@ -7,6 +7,9 @@
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2/Monlam_Grand_Tibetan_Dictionary_2018.zip">Monlam Dictionary v2 for Windows</a>
 <br>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/V2.1/Monlam-Grand-Tibetan-Dictionary-for-mac-OS-X.zip">Monlam Dictionary v2 for Mac</a>
+<br>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1/Chinese-Tibetan-Dictionary-V2-for-Windows.zip">Chinese Tibetan Dictionary V2 for Windows</a>
+
 
 
  
