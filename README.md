@@ -16,6 +16,14 @@
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1.1/Chinese-Tibetan-Dictionary-v2-For-Mac-OS-X.zip">Chinese-Tibetan Dictionary v2 For Mac (རྒྱ་བོད་ཚིག་མཛོད། ཀུ་ཤུ་གློག་ཀླད།)</a>
  <br>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1.2/Tibetan_Chinese_Dictionary_Mac_OS_X.zip">Chinese-Tibetan Dictionary v2 For Mac (བོད་རྒྱ་ཚིག་མཛོད། ཀུ་ཤུ་གློག་ཀླད།)</a>
+
+
+<br>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1.3/Chinese-Tibetan-Dictionary-v2-For-Android.zip">Chinese Tibetan Dictionary V2 For Android (རྒྱ་བོད་ཚིག་མཛོད། ཨན་ཌོར།)</a>
+ <br>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1.4/Tibetan_Chinese_Dictionary_com.monlam.apk.zip">Tibetan Chinese Dictionary V2 For Android (བོད་རྒྱ་ཚིག་མཛོད། ཨན་ཌོར།)</a>
+
+
 <h4>Deutsch-Tibetisches Dictionary (འཇར་མན་བོད་ཡིག་ཚིག་མཛོད)</h4>
 <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v1.1.0/Deutsch-Tibetisches_Worterbuch_Installer_Windows.zip">Deutsch Tibetisches Dictionary V1 For Windows (འཇར་བོད་རྒྱ་ཚིག་མཛོད།)</a>
  <br>
