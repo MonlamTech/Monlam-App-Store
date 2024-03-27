@@ -5,7 +5,7 @@
  <a href="https://github.com/MonlamTech/Monalm-bodyig-windows/releases/download/v3.1/monlam-bodyig-mac-os.zip">Monlam Bodyig v3 For Mac (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
 <h3>Download Dictionarys</h3>
 <h4>Tibetan Dictionary (བོད་ཡིག་ཚིག་མཛོད།)</h4>
-<a href="https://www.monlamdictionary.com">Monlam Grand Tibetan Dictionary v3 (སྨོན་ལམ་ཚིག་མཛོད་ཆེན་མོ། ཐོན་རིམ་གསུམ་པ།)</a>
+<a href="https://monlamdictionary.com">Monlam Grand Tibetan Dictionary v3 (སྨོན་ལམ་ཚིག་མཛོད་ཆེན་མོ། ཐོན་རིམ་གསུམ་པ།)</a>
 <br>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2/Monlam_Grand_Tibetan_Dictionary_2018.zip">Monlam Grand Tibetan Dictionary v2 For Windows (སྨོན་ལམ་ཚིག་མཛོད་ཆེན་མོ། ཐོན་རིམ་གཉིས་པ།)</a>
 <br>
