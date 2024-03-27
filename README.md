@@ -11,7 +11,7 @@
  <h4>Tibetan-Chinnse Dictionary</h4>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.1/Chinese-Tibetan-Dictionary-V2-for-Windows.zip">Chinese Tibetan Dictionary V2 for Windows</a>
 <br>
- <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.2/Tibetan_Chinese_Dictionary_Win.zip">Tibetan Chinese Dictionary Windows</a>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v2.2/Tibetan_Chinese_Dictionary_Win.zip">Tibetan Chinese Dictionary v2 Windows</a>
 
 
 
