@@ -1,8 +1,12 @@
 # Monlam-App-Store
 <h3>Download Monlam Bodyig</h3>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v3/monlam-bodyig3.zip">Monalm Bodyig v3 For Windows (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
+  <br>
+ <a href=" https://github.com/MonlamTech/Monlam-App-Store/releases/download/v3/Monlam.bodyig.Keboard.2025.UAS.zip">Monlam Bodyig v3 Keyboard For Windows 10/11 (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
  <br>
  <a href="https://github.com/MonlamTech/Monalm-bodyig-windows/releases/download/v3.1/monlam-bodyig-mac-os.zip">Monlam Bodyig v3 For Mac (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
+
+
 <h3>Download Dictionarys</h3>
 <h4>Tibetan Dictionary (བོད་ཡིག་ཚིག་མཛོད།)</h4>
 <a href="https://monlamdictionary.com">Monlam Grand Tibetan Dictionary v3 For Website (སྨོན་ལམ་ཚིག་མཛོད་ཆེན་མོ། ཐོན་རིམ་གསུམ་པ།)</a>
