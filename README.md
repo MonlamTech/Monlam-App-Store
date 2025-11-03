@@ -1,10 +1,10 @@
 # Monlam-App-Store
 <h3>Download Monlam Bodyig</h3>
- <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v3/monlam-bodyig3.zip">Monalm Bodyig v3 For Windows (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v4/Monlam.Bodyig.4.Win.zip">Monalm Bodyig v4 For Windows (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
   <br>
  <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v3/Monlam.bodyig.Keboard.2025.UAS.zip">Monlam Bodyig v3 Keyboard For Windows 10/11 2025 (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
  <br>
- <a href="https://github.com/MonlamTech/Monalm-bodyig-windows/releases/download/v3.1/monlam-bodyig-mac-os.zip">Monlam Bodyig v3 For Mac (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
+ <a href="https://github.com/MonlamTech/Monlam-App-Store/releases/download/v4/Monlam.Bodyig.4.Mac.zip">Monlam Bodyig v4 For Mac (སྨོན་ལམ་བོད་ཡིག་གསུམ་པ།)</a>
 
 
 <h3>Download Dictionarys</h3>
